@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.precede1"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="33" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <permission
+        android:name="com.example.precede1.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.example.precede1.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:debuggable="true"
+        android:enableOnBackInvokedCallback="true"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.Precede1"
+        android:usesCleartextTraffic="true" >
+        <activity
+            android:name="com.example.precede1.MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.Precede1" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.precede1.RegisterActivity" />
+        <activity android:name="com.example.precede1.RegisterActivity_c_2" />
+        <activity android:name="com.example.precede1.RegisterActivity_c_1" />
+        <activity android:name="com.example.precede1.PersonalAccountActivity" />
+        <activity android:name="com.example.precede1.SettingActivity2" />
+        <activity android:name="com.example.precede1.SettingActivity" />
+        <activity android:name="com.example.precede1.Groupprofilesearch2" />
+        <activity android:name="com.example.precede1.Groupprofilesearch1" />
+        <activity android:name="com.example.precede1.Recording_a4" />
+        <activity android:name="com.example.precede1.Recording_a3" />
+        <activity android:name="com.example.precede1.recording_a2" />
+        <activity android:name="com.example.precede1.Recording_a1" />
+        <activity android:name="com.example.precede1.MainprivActivity" />
+        <activity android:name="com.example.precede1.MainuseActivity" />
+        <activity android:name="com.example.precede1.HomeActivity" />
+        <activity android:name="com.example.precede1.IDPW2Activity" />
+        <activity android:name="com.example.precede1.IDPWActivity" />
+        <activity android:name="com.example.precede1.RegisterActivity_b_1" />
+        <activity android:name="com.example.precede1.LoginActivity" />
+        <activity android:name="com.example.precede1.RegisterActivity_abc_4" />
+        <activity android:name="com.example.precede1.RegisterActivity_abc_3" />
+        <activity android:name="com.example.precede1.RegisterActivity_a_2" />
+        <activity android:name="com.example.precede1.RegisterActivity_a_1" />
+        <activity android:name="com.example.precede1.UseActivity" />
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.example.precede1.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+    </application>
+
+</manifest>

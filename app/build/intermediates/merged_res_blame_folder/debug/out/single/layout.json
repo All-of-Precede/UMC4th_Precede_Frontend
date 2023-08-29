@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_register_abc3.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_register_abc3.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_use.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_use.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_recording_a3.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_recording_a3.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_register_c1.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_register_c1.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_setting2.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_setting2.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_register_a2.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_register_a2.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/custom_dupbusiness.xml",
+        "source": "com.example.precede1.app-main-32:/layout/custom_dupbusiness.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_register.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_idpwactivity.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_idpwactivity.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_register_a1.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_register_a1.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_groupprofilesearch1.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_groupprofilesearch1.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_register_b2.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_register_b2.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_main.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_setting.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_idpw2.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_idpw2.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_mainuse.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_mainuse.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_mainpriv.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_mainpriv.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_groupprofilesearch2.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_groupprofilesearch2.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_recording_a4.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_recording_a4.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_recording_a2.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_recording_a2.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/custom_certification.xml",
+        "source": "com.example.precede1.app-main-32:/layout/custom_certification.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_register_c2.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_register_c2.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_home.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_register_abc4.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_register_abc4.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_recording_a1.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_recording_a1.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_login.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_register_b1.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_register_b1.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/activity_personal_account.xml",
+        "source": "com.example.precede1.app-main-32:/layout/activity_personal_account.xml"
+    },
+    {
+        "merged": "com.example.precede1.app-mergeDebugResources-29:/layout/custom_dupemail.xml",
+        "source": "com.example.precede1.app-main-32:/layout/custom_dupemail.xml"
+    }
+]
